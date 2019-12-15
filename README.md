@@ -1,5 +1,5 @@
 ## 一个学习Golang的demo项目
-推荐几个学习Golang的网站...
+推荐几个学习Golang的网站
 >[Go语言入门教程](http://c.biancheng.net/golang/)
 
 >[Go语言中文网](https://studygolang.com/)
