@@ -1,4 +1,4 @@
-## 一个学习Golang的demo项目
+## 学习Golang整理的一些资料，感谢以下网站
 推荐几个学习Golang的网站
 >[Go语言入门教程](http://c.biancheng.net/golang/)
 
