@@ -24,5 +24,28 @@ Go语言提供了两种精度的浮点数 float32 和 float64。
 const e = .71828 // 0.71828
 const f = 1.     // 1
 ```
-### 4.字符类型
-### 5.字符串类型
+### 4.字符串类型
+定义字符串，可以使用双引号""来定义字符串
+```go
+package main
+import (
+    "fmt"
+)
+func main() {
+    var str = "hello\nGo语言教程"
+    fmt.Println(str)
+}
+```
+字符串的内容（纯字节）可以通过标准索引法来获取，在方括号[]内写入索引，索引从 0 开始计数：
+>* 字符串 str 的第 1 个字节：str[0]
+>* 第 i 个字节：str[i - 1]
+>* 最后 1 个字节：str[len(str)-1]
+
+字符串拼接符“+”,也可以使用“+=”来对字符串进行拼接：
+```go
+s := "hel" + "lo,"
+s += "world!"
+fmt.Println(s) //输出 “hello, world!”
+```
+
+### 5.字符类型
