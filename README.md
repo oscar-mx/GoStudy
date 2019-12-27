@@ -4,6 +4,6 @@
 
 >[Go语言中文网](https://studygolang.com/)
 
->[LearnKu Golang技术论坛](https://learnku.com/golang)
+>[LearnKu Golang技术论坛](https://learnku.com/go/docs)
 
 >[语雀](https://www.yuque.com/nh0nxz/aolob5)
